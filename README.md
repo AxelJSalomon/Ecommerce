@@ -24,3 +24,6 @@ CLIENT: https://la-pluma.netlify.app/
 **Client:** React, Redux Toolkit, React-Bootstrap, React-Router, HTML & CSS
 
 **Server:** Node, Express, PostgreSQL, Sequelize, JWT
+# LaPluma-Ecommerce
+# Ecommerce-LaPluma
+# Ecommerce
